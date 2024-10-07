@@ -14,7 +14,7 @@ Dataset:
 
 Dashboard (Data visualization):
 
-![Alt text](Screenshot (84).png)
+![Alt text][(Screenshot (84).png)](https://github.com/RajBhardwaj29/Customer-Saisfaction-Analysis/blob/main/Screenshot%20(84).png)
 
 
 
