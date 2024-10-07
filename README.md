@@ -8,7 +8,7 @@ Analyze the 'CALL CENTRE' dataset and make informative output out of it:
 
 Dataset:
 
-![Alt text][(Screenshot (83).png)](https://github.com/RajBhardwaj29/Customer-Saisfaction-Analysis/blob/main/Screenshot%20(83).png)
+![(Screenshot (83).png)](https://github.com/RajBhardwaj29/Customer-Saisfaction-Analysis/blob/main/Screenshot%20(83).png)
 
 
 
