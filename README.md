@@ -2,7 +2,7 @@
 
 Analyze the 'CALL CENTRE' dataset and make informative output out of it:
 
-(https://github.com/RajBhardwaj29/Customer-Saisfaction-Analysis/blob/main/Screenshot%202023-08-11%20195957.jpg)
+![Screenshot 2023-08-11 195957.jpg](https://github.com/RajBhardwaj29/Customer-Saisfaction-Analysis/blob/main/Screenshot%202023-08-11%20195957.jpg)
 
 
 
@@ -14,7 +14,7 @@ Dataset:
 
 Dashboard (Data visualization):
 
-[(Screenshot (84).png)](https://github.com/RajBhardwaj29/Customer-Saisfaction-Analysis/blob/main/Screenshot%20(84).png)
+![(Screenshot (84).png)](https://github.com/RajBhardwaj29/Customer-Saisfaction-Analysis/blob/main/Screenshot%20(84).png)
 
 
 
