@@ -1,4 +1,4 @@
-# Customer-Saisfaction-Analysis
+# Customer-Satisfaction-Analysis
 
 Analyze the 'CALL CENTRE' dataset and make informative output out of it:
 
